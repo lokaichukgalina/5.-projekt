@@ -28,7 +28,7 @@ Soubor obsahoval 16 listů (1 list = 1 kraj).
 V Power BI byly listy sloučeny pomocí Power Query, vyčištěny a sjednoceny do tabulek:
 - Střelnice celá ČR 
 - Klasifikace střelnic
-
+Původní zdrojové tabulky byly po transformaci následně skryty.
 ------------------------------------------------------------------------
 
 ### 2️⃣ Tabulka okresů (prostorová data)
@@ -48,7 +48,7 @@ Data byla sloučena do jedné tabulky a zahrnují:
 - Počet držitelů ZP a  ZL dle let
 - Kategorie zbraní
 - Počet registrovaných zbraní
-
+Původní zdrojové tabulky byly po transformaci následně skryty.
 ------------------------------------------------------------------------
 
 ### 4️⃣ Nová kategorizace ZL od roku 2026
@@ -60,7 +60,7 @@ Zdroj: https://www.svetzbrani.cz/slovnik-pojmu/zbrojni-licence/
 
 ## Datový model
 
-Použité tabulky: Střelnice celá ČR, Klasifikace střelnic, Okresy, ZP a ZL, ZL skupiny,  xMěřítka (DAX míry)
+Použité tabulky: Střelnice celá ČR, Klasifikace střelnic, Okresy, ZP a ZL, ZL, ZL skupiny,  xMěřítka (DAX míry)
 
 Model umožňuje regionální, časovou i strukturální analýzu.
 
